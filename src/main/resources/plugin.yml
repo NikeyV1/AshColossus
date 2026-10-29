@@ -1,0 +1,20 @@
+name: WitherBoss
+version: '${version}'
+main: de.nikey.witherboss.WitherBossPlugin
+api-version: '26.2'
+load: POSTWORLD
+authors: [NikeyV1]
+website: https://github.com/NikeyV1/Wither-Boss
+description: Ash Colossus, a three-phase Wither raid boss with a built-in resource pack, custom loot and server-owner tuning.
+commands:
+  witherboss:
+    description: Ash Colossus boss event and administration
+    aliases: [wboss, colossus]
+    usage: /witherboss help
+permissions:
+  witherboss.admin:
+    description: Configure the boss, edit loot, start tests and manage the event
+    default: op
+  witherboss.summon:
+    description: Start the event with /witherboss summon when event.trigger is COMMAND
+    default: op

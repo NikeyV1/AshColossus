@@ -1,0 +1,15 @@
+Ash Colossus resource pack 1.x (Wither Boss by NikeyV1 / Buffed SMP)
+
+Origin
+All models, textures, animations, sound effects and music of this pack were created from
+scratch for this project using procedural generation and synthesis. The generation scripts
+are not included in this repository.
+No samples, third-party textures, third-party models or third-party music were used.
+
+License
+Creator: NikeyV1 (Buffed SMP), created with Claude Code.
+The resource pack assets are released under CC0 1.0 Universal
+(https://creativecommons.org/publicdomain/zero/1.0/).
+
+Minecraft is a trademark of Mojang Studios. This pack is not an official Minecraft product
+and is not approved by or associated with Mojang or Microsoft.

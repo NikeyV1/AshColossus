@@ -1,0 +1,5 @@
+name: WitherBossRuntimeChecks
+version: '1.0'
+main: de.nikey.witherchecks.WitherRuntimeChecks
+api-version: '26.2'
+depend: [WitherBoss]
