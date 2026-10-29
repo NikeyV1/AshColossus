@@ -216,7 +216,7 @@ discord:
 # One line of credit for fighters at the start and the end of a fight. /witherboss about always works.
 credits:
   enabled: true
-  link: "https://github.com/NikeyV1/Wither-Boss"
+  link: "https://github.com/NikeyV1/AshColossus"
 
 # --- Testing ---------------------------------------------------------------------------------
 # Staff can always run /witherboss test. true lets every player run solo test fights.

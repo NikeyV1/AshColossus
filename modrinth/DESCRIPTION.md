@@ -1,6 +1,6 @@
 # Ash Colossus · Wither Boss
 
-![Ash Colossus](https://raw.githubusercontent.com/NikeyV1/Wither-Boss/main/modrinth/banner.png)
+![Ash Colossus](https://raw.githubusercontent.com/NikeyV1/AshColossus/master/modrinth/banner.png)
 
 **A three-phase Wither raid boss for Paper servers, with its own model, animations, music and arena. Resource pack included.**
 
@@ -35,9 +35,9 @@ Prefer the classic behaviour where every Wither build awakens the boss? Set `eve
 
 ## Links
 
-- Source code and docs: https://github.com/NikeyV1/Wither-Boss
-- Fight guide: https://github.com/NikeyV1/Wither-Boss/blob/main/docs/FIGHT-GUIDE.md
-- Issues and ideas: https://github.com/NikeyV1/Wither-Boss/issues
+- Source code and docs: https://github.com/NikeyV1/AshColossus
+- Fight guide: https://github.com/NikeyV1/AshColossus/blob/master/docs/FIGHT-GUIDE.md
+- Issues and ideas: https://github.com/NikeyV1/AshColossus/issues
 
 ## Credits
 

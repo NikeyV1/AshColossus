@@ -20,7 +20,7 @@ Everything for the Modrinth project page lives here.
 - **Categories:** Game mechanics, Adventure, Mobs, Equipment
 - **Environment:** Server
 - **License:** GPL-3.0-only, link https://www.gnu.org/licenses/gpl-3.0.html
-- **Links:** Source https://github.com/NikeyV1/Wither-Boss, Issues https://github.com/NikeyV1/Wither-Boss/issues
+- **Links:** Source https://github.com/NikeyV1/AshColossus, Issues https://github.com/NikeyV1/AshColossus/issues
 - **File to upload:** `target/WitherBoss-1.0.0.jar` (after `mvn verify`)
 
 Also upload `resource-pack/WitherBoss-Pack-1.0.0.zip` as an additional file of the version or as a separate resource pack project if you want it listed on its own.

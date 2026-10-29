@@ -27,7 +27,7 @@ public final class WitherService implements AutoCloseable {
         COMMAND
     }
 
-    public static final String DEFAULT_PACK_URL = "https://raw.githubusercontent.com/NikeyV1/Wither-Boss/main/resource-pack/WitherBoss-Pack-1.0.0.zip";
+    public static final String DEFAULT_PACK_URL = "https://raw.githubusercontent.com/NikeyV1/AshColossus/master/resource-pack/WitherBoss-Pack-1.0.0.zip";
 
     private final WitherBossPlugin plugin;
     private final WitherStore store;

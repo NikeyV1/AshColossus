@@ -25,7 +25,7 @@ public final class Credits {
     }
 
     public String link() {
-        return plugin.getConfig().getString("credits.link", "https://github.com/NikeyV1/Wither-Boss");
+        return plugin.getConfig().getString("credits.link", "https://github.com/NikeyV1/AshColossus");
     }
 
     public Component line() {

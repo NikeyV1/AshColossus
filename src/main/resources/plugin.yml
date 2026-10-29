@@ -4,7 +4,7 @@ main: de.nikey.witherboss.WitherBossPlugin
 api-version: '26.2'
 load: POSTWORLD
 authors: [NikeyV1]
-website: https://github.com/NikeyV1/Wither-Boss
+website: https://github.com/NikeyV1/AshColossus
 description: Ash Colossus, a three-phase Wither raid boss with a built-in resource pack, custom loot and server-owner tuning.
 commands:
   witherboss:
